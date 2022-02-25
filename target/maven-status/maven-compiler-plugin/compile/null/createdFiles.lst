@@ -1,0 +1,4 @@
+org\acme\resource\BancoResource.class
+org\acme\service\BancoService.class
+org\acme\util\Token.class
+META-INF\panache-archive.marker
